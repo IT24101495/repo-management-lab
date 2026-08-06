@@ -1,4 +1,4 @@
 Repository Management Lab
 
-##Notes
+## Notes
 This repository is managed from both main and feature-info branches.
